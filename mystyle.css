@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+html{
+ scroll-behavior: smooth;    
+}
+#about{
+    margin-top: 61px;
+}
+#contact{
+    margin-top: 12 !important;
+    margin-bottom: 66 !important;
+}
+#menu{
+    margin-top: 150px;
+}
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+td{
+    border: 1px solid;
+}
+th{
+    border: 1px solid;
+}
+
